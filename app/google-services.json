@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139228763365",
+    "firebase_url": "https://firetvapp-e4e96.firebaseio.com",
+    "project_id": "firetvapp-e4e96",
+    "storage_bucket": "firetvapp-e4e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139228763365:android:b8fb137ace3795d8",
+        "android_client_info": {
+          "package_name": "com.notifi.tvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139228763365-ki4nhoi52p0fu7qhg0jel6060tcb51te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXUWAl_3Uxd9ri_a-nI6jDHI2eXTPHgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
